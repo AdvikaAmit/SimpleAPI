@@ -813,7 +813,7 @@
 				"header": [],
 				"body": {
 					"mode": "raw",
-					"raw": "{\r\n  \"deviceinlist\": [\r\n    {\r\n      \"device\": {\r\n        \"protocoltype\": \"ehomevs\",\r\n        \"ehomeparams\": {\r\n          \"ehomeid\": \"354656\",\r\n          \"ehomekey\": \"12348a\"\r\n        },\r\n        \"devname\": \"testingapi\",\r\n        \"devtype\": \"accesscontrol\"\r\n      }\r\n    }\r\n  ]\r\n}",
+					"raw": "{\r\n  \"deviceinlist\": [\r\n    {\r\n      \"device\": {\r\n        \"protocoltype\": \"ehomevs\",\r\n        \"ehomeparams\": {\r\n          \"ehomeid\": \"354656\",\r\n          \"ehomekey\": \"12348a\"\r\n        },\r\n        \"devname\": \"testingapi\",\r\n        \"devtype\": \"accesscontrol\"\r\n      }\r\n    }\r\n    \r\n  ]\r\n}",
 					"options": {
 						"raw": {
 							"language": "json"
